@@ -93,6 +93,7 @@ Explore projects and join the DeSci community.
 
 - [DeSci.Global: global events and meetup calendar](https://desci.global)
 - [Blockchain for Science Telegram](https://t.me/BlockchainForScience)
+- [GenomesDAO: Secure, particpant owned genomic databases](https://genomes.io/)
 - [Molecule: Fund and get funded for your research projects](https://discover.molecule.to/)
 - [VitaDAO: receive funding through sponsored research agreements for longevity research](https://www.vitadao.com/)
 - [ResearchHub: post a scientific result and engage in a conversation with peers](https://www.researchhub.com/)
